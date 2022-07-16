@@ -1,2 +1,9 @@
 This is the second file
+<<<<<<< HEAD
 This line is modified in original folder.
+=======
+This line is modified in a clone folder.
+>>>>>>> 663bc8b1c63644c44c7048e1188910100fd505f3
+
+This line is added in original folder
+
