@@ -1,1 +1,2 @@
 This is the second file
+This line is modified in a clone folder.
